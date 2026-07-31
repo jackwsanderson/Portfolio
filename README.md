@@ -14,7 +14,7 @@ Data and analytics professional who delivers end to end data analysis and uphold
 ## Featured Projects
 
 ### Sustainability Reporting - Semantic Model Example
-- template of reporting used for statutory reporting and audits across a portfolio over 1500 products.
+- Template of reporting used for statutory reporting and audits across a portfolio over 1500 products.
 - Produced reporting using sub-dimension tables and measures to calculate weights across multiple tables.
 - Front end presents mapping, field parameters and time series summaries.
 - [Sustainability Reporting](https://github.com/jackwsanderson/Portfolio/blob/main/Sustainability%20Reporting.pbix)
