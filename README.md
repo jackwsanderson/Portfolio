@@ -24,7 +24,8 @@ Data and analytics professional who delivers end to end data analysis and uphold
 **Tech:** Polars, Panda, PyTest
 
 ### Sustainability Analysis - Semantic Model Example
-
+- Produced reporting of weights using sub-dimension tables
+- https://github.com/jackwsanderson/Portfolio/blob/main/Sustainability%20Reporting.pbix
 <img width="1180" height="671" alt="image" src="https://github.com/user-attachments/assets/024bb17a-ac1d-4e14-b78b-a54c9acced27" />
 
 
