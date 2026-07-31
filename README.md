@@ -27,7 +27,8 @@ Data and analytics professional who delivers end to end data analysis and uphold
 
 ### Project Financial Forecasts
 - Template of sheet used to gather financial forecasts of seven multi-million pound infrastructure projects.
-- [Project Financial Forecasts](https://github.com/jackwsanderson/Portfolio/blob/main/Project%20Financial%20Forecasts%20v1.xlsx) 
+- Combines with 'Actuals to Date' to give 'Estimate to Completion' (ETC) and 'Estimate at Completion' (EAC).
+- [Project Financial Forecasts Excel](https://github.com/jackwsanderson/Portfolio/blob/main/Project%20Financial%20Forecasts%20v1.xlsx) 
 
 **Tech:** Power BI, Excel Power Query
 
