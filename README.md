@@ -23,10 +23,12 @@ Data and analytics professional who delivers end to end data analysis and uphold
 
 **Tech:** Polars, Panda, PyTest
 
-### Sustainability Analysis
+### Sustainability Analysis - Semantic Model Example
+
+<img width="1180" height="671" alt="image" src="https://github.com/user-attachments/assets/024bb17a-ac1d-4e14-b78b-a54c9acced27" />
 
 
-**Tech:** API, Python, Power BI
+**Tech:** Power BI
 
 ### Mortgage Forecasts
 
