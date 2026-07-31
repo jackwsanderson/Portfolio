@@ -13,11 +13,6 @@ Data and analytics professional who delivers end to end data analysis and uphold
 
 ## Featured Projects
 
-### Testing Polars against Pandas
-
-
-**Tech:** Polars, Panda, PyTest
-
 ### Sustainability Reporting - Semantic Model Example
 - Used for statutory reporting and audits across a portfolio over 1500 products.
 - Produced reporting using sub-dimension tables and measures to calculate weights across multiple tables.
@@ -36,6 +31,11 @@ Data and analytics professional who delivers end to end data analysis and uphold
 - [Project Financial Forecasts Excel](https://github.com/jackwsanderson/Portfolio/blob/main/Project%20Financial%20Forecasts%20v1.xlsx) 
 
 **Tech:** Power BI, Excel Power Query
+
+### Testing Polars against Pandas
+
+
+**Tech:** Polars, Panda, PyTest
 
 ### Mortgage Forecasts
 
