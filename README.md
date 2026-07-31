@@ -19,16 +19,17 @@ Data and analytics professional who delivers end to end data analysis and uphold
 **Tech:** Polars, Panda, PyTest
 
 ### Sustainability Reporting - Semantic Model Example
-- Produced reporting of weights using sub-dimension tables
+- Produced reporting using sub-dimension tables and measures to calculate weights across multiple tables.
 - [Sustainability Reporting](https://github.com/jackwsanderson/Portfolio/blob/main/Sustainability%20Reporting.pbix)
 <img width="1180" height="671" alt="image" src="https://github.com/user-attachments/assets/024bb17a-ac1d-4e14-b78b-a54c9acced27" />
 
 **Tech:** Power BI
 
 ### Project Financial Forecasts
-- https://github.com/jackwsanderson/Portfolio/blob/main/Project%20Financial%20Forecasts%20v1.xlsx
+- Template of sheet used to gather financial forecasts of seven multi-million pound infrastructure projects.
+- [Project Financial Forecasts](https://github.com/jackwsanderson/Portfolio/blob/main/Project%20Financial%20Forecasts%20v1.xlsx) 
 
-**Tech:** Python, Power BI, SQL, Excel Power Query
+**Tech:** Power BI, Excel Power Query
 
 ### Mortgage Forecasts
 
