@@ -20,6 +20,7 @@ Data and analytics professional who delivers end to end data analysis and uphold
 
 ### Sustainability Reporting - Semantic Model Example
 - Produced reporting using sub-dimension tables and measures to calculate weights across multiple tables.
+- Front end presents mapping, field parameters and time series summaries.
 - [Sustainability Reporting](https://github.com/jackwsanderson/Portfolio/blob/main/Sustainability%20Reporting.pbix)
 
 **Tech:** Power BI
