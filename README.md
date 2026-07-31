@@ -43,7 +43,7 @@ Data and analytics professional who delivers end to end data analysis and uphold
 
 ## Knowledge Share
 - Introduction to Business Intelligence
-- Commericial Value of Dashboards
+- [Commericial Value of Dashboards](https://github.com/jackwsanderson/Portfolio/blob/main/Commercial%20Value%20of%20Dashboards.pptx)
 - Storytelling in Analytics
 
 ## Certifications
