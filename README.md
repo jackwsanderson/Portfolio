@@ -13,11 +13,6 @@ Data and analytics professional who delivers end to end data analysis and uphold
 
 ## Featured Projects
 
-### Project Financial Forecasts
-- Personal finances collating transactions across four accounts
-
-**Tech:** Python, Power BI, SQL, Excel Power Query
-
 ### Testing Polars against Pandas
 
 
@@ -28,8 +23,12 @@ Data and analytics professional who delivers end to end data analysis and uphold
 - https://github.com/jackwsanderson/Portfolio/blob/main/Sustainability%20Reporting.pbix
 <img width="1180" height="671" alt="image" src="https://github.com/user-attachments/assets/024bb17a-ac1d-4e14-b78b-a54c9acced27" />
 
-
 **Tech:** Power BI
+
+### Project Financial Forecasts
+- https://github.com/jackwsanderson/Portfolio/blob/main/Project%20Financial%20Forecasts%20v1.xlsx
+
+**Tech:** Python, Power BI, SQL, Excel Power Query
 
 ### Mortgage Forecasts
 
