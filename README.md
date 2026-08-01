@@ -21,7 +21,8 @@ Data and analytics professional who delivers end to end data analysis and uphold
 
 **Tech:** Power BI
   
-<img width="1180" height="671" alt="image" src="https://github.com/user-attachments/assets/024bb17a-ac1d-4e14-b78b-a54c9acced27" />
+<img width="896" height="491" alt="image" src="https://github.com/user-attachments/assets/bedd1006-95b4-4f56-937a-14df0a7e4a43" />
+
 
 
 
