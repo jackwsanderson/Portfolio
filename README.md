@@ -13,6 +13,15 @@ Data and analytics professional who delivers end to end data analysis and uphold
 
 ## Featured Projects
 
+### Rainfall - ETL Example
+- Extracts open source data using an API.
+- Saves a raw JSON file.
+- Saves a conformed csv.
+- Saves a reporting view using optimisied polars transformations.
+- Processing time is monitored at each stage.
+
+**Tech:** Python, API, Polars Library
+
 ### Sustainability Reporting - Semantic Model Example
 - Template of reporting used for statutory reporting and audits across a portfolio over 1500 products.
 - Produced reporting using sub-dimension tables and measures to calculate weights across multiple tables.
