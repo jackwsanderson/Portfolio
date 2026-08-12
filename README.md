@@ -17,6 +17,7 @@ Data and analytics professional who delivers end to end data analysis and uphold
 ### Databricks Alert
 - Alerts will trigger if the sum of a value is 10% greater than the previous load.
 - JSON file containing SQL code.
+- Custom failure message.
 - https://github.com/jackwsanderson/Portfolio/blob/main/databricks_alert
 **Tech:** Databricks, Python, JSON
 
