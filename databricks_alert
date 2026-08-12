@@ -50,6 +50,6 @@
     "ORDER BY load_id DESC;"
   ],
   "custom_description_lines": [
-    "Payroll Alert triggered because variance to the previous total value is greater than the threshold or trigger has failed to run.",
+    "Alert triggered because variance to the previous total value is greater than the threshold or trigger has failed to run.",
   ]
 }
