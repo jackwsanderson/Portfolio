@@ -10,8 +10,12 @@ Data and analytics professional who delivers end to end data analysis and uphold
 - Git & GitHub
 - Automation
 - Data Analysis
+- Databricks
 
 ## Featured Projects
+
+### Databricks Alert
+- Alerts will trigger if the sum of a value is 10% greater than the previous load.
 
 ### Rainfall - ETL Example
 - Extracts open source data using an API.
