@@ -19,6 +19,7 @@ Data and analytics professional who delivers end to end data analysis and uphold
 - JSON file containing SQL code.
 - Custom failure message.
 - https://github.com/jackwsanderson/Portfolio/blob/main/databricks_alert
+
 **Tech:** Databricks, Python, JSON
 
 ### Rainfall - ETL Example
