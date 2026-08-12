@@ -26,7 +26,7 @@ Data and analytics professional who delivers end to end data analysis and uphold
 - Saves a reporting view using optimisied polars transformations.
 - Processing time is monitored at each stage.
 - These would usually be saved on to a platform such as Databricks but saved to local files as an example.
-- https://github.com/jackwsanderson/Portfolio/blob/main/api_test.py
+- https://github.com/jackwsanderson/Portfolio/blob/main/api_rainfall.py
 
 **Tech:** Python, API, Polars Library
 
@@ -34,7 +34,7 @@ Data and analytics professional who delivers end to end data analysis and uphold
 - Template of reporting used for statutory reporting and audits across a portfolio over 1500 products.
 - Produced reporting using sub-dimension tables and measures to calculate weights across multiple tables.
 - Front end presents mapping, field parameters and time series summaries.
-- [Sustainability Reporting](https://github.com/jackwsanderson/Portfolio/blob/main/Sustainability%20Reporting.pbix)
+- [Sustainability Reporting](https://github.com/jackwsanderson/Portfolio/blob/main/sustainability%20reporting.pbix)
 
 **Tech:** Power BI
   
@@ -46,7 +46,7 @@ Data and analytics professional who delivers end to end data analysis and uphold
 ### Project Financial Forecasts
 - Template of sheet used to gather financial forecasts of seven multi-million pound infrastructure projects.
 - Combines with 'Actuals to Date' to give 'Estimate to Completion' (ETC) and 'Estimate at Completion' (EAC).
-- [Project Financial Forecasts Excel](https://github.com/jackwsanderson/Portfolio/blob/main/Project%20Financial%20Forecasts%20v1.xlsx) 
+- [Project Financial Forecasts Excel](https://github.com/jackwsanderson/Portfolio/blob/main/project%20financial%20forecasts%20v1.xlsx) 
 
 **Tech:** Power BI, Excel Power Query
 
@@ -66,7 +66,7 @@ Data and analytics professional who delivers end to end data analysis and uphold
 
 ## Knowledge Share
 - Introduction to Business Intelligence
-- [Commericial Value of Dashboards](https://github.com/jackwsanderson/Portfolio/blob/main/Commercial%20Value%20of%20Dashboards.pptx)
+- [Commericial Value of Dashboards](https://github.com/jackwsanderson/Portfolio/blob/main/commercial%20value%20of%20dashboards.pptx)
 - Storytelling in Analytics
 
 ## Certifications
